@@ -1,0 +1,24 @@
+name: counter_online
+description: >-
+  A simple, elegant counter application built with React. Features increment, decrement, and reset functionality with a
+  clean green-themed UI. Deployed on Vercel.
+author: Hernán <holmedamartin@gmail.com>
+version: 0.1.0
+technologies:
+  - React
+  - Node.js
+  - JavaScript
+  - CSS
+  - Create React App
+  - Vercel
+  - Jest
+  - React Testing Library
+repository: https://github.com/hern-n/simple_counter.git
+license: MIT
+tags:
+  - web
+  - react
+  - counter
+  - ui
+  - javascript
+lastModified: '2026-07-03T16:32:11.789Z'
